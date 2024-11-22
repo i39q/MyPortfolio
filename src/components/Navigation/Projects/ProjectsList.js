@@ -73,7 +73,7 @@ const Projects = [
         "obj" : [
             {
                 "name" : "notabug",
-                "link" :  "https://notabug.org/i39q/hashsum"
+                "link" : "https://notabug.org/i39q/hashsum"
             },
             {
                 "name" : "github",
@@ -87,11 +87,11 @@ const Projects = [
         "obj" : [
             {
                 "name" : "notabug",
-                "link" :  "https://notabug.org/i39q/Training/src/main/Translator"
+                "link" : "https://notabug.org/i39q/Training/src/main/Translator"
             },
             {
                 "name" : "github",
-                "link" : "https://github.com/i39q/Training/src/main/Translator"
+                "link" : "https://github.com/GoneNowhere/Training/tree/main/Translator"
             }
         ]
     }
