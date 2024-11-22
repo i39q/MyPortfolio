@@ -1,0 +1,32 @@
+.main{
+    width: 100vw;
+    height: auto;
+    text-align: center;
+    background-color: #222;
+    position: relative;
+}
+
+.container_main{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container_main h1 {
+    font-size: 3em;
+    margin-bottom: 0.3em;
+    color: #FF5733;
+}
+
+.container_main p {
+    font-size: 1.2em;
+    color: #F5F5DC;
+}
+
+.container_main a{
+    text-decoration-line: none;
+    color: inherit;
+    padding: 20px 150px;
+    display: block;
+}

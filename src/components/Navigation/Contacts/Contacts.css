@@ -1,0 +1,33 @@
+.container_contacts{
+    background-color: #222;
+    color: #FFFFFF;
+    position: relative;
+}
+
+.contacts{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.contact_block{
+    text-align: center;
+    line-height: normal;
+}
+
+.name{
+    font-size: 60px;
+    font-weight: bold;
+    color: #FF5733;
+}
+
+.subName {
+    margin: 2% auto;
+    font-size: 25px;
+    color: #F5F5DC;
+}
+
+.email{
+    margin-top: 15%;
+}

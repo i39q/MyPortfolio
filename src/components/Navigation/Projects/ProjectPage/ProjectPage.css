@@ -1,0 +1,75 @@
+.container_show_project{
+    background-color: #222;
+    width: 100vw;
+    height: auto;
+}
+
+.show_project{
+    margin: 3% auto;
+}
+
+.show_item_project{
+    width: 50vw;
+    height: auto;
+    margin: 0 auto;
+    background: #1C1C1C;
+    color: #FF5733;
+    box-shadow: 40px -20px 15px rgba(0, 0, 0, 0.95);
+    border: 1px solid #1E1E2F;
+}
+
+.show_item_project img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.show_item_project p{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 300;
+    padding: 2% 0% 3% 0%;
+}
+
+.source_links{
+    text-align: center;
+}
+
+.source_links button{
+    background-color: #DC3545;
+    color: #DFDF88D6;
+}
+
+.github,.notabug{
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin-top: 3%;
+}
+
+.github{
+    margin-left: 9%;
+}
+
+.github a,.notabug a{
+    color: inherit;
+    text-decoration-line: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 20px 150px;
+}
+
+
+.github{
+    background: url(./BtnLinks/github1_.png) no-repeat;
+    background-size: 20%;
+}
+
+.notabug{
+    background: url(./BtnLinks/notabug.png) no-repeat;
+    background-size: 20%;
+}
+
+.github:hover,.notabug:hover{
+    color: #DFDF88;
+    background-color: #C82333;
+}

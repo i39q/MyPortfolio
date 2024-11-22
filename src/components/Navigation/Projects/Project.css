@@ -1,0 +1,49 @@
+.Projects{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #222;
+    color: #FFFFFF;
+    width: 100vw;
+    height: auto;
+}
+
+.item_project {
+    width: 450px;
+    height: 300px;
+    cursor: pointer;
+    border: 1px solid #1E1E2F;
+    margin: 7% 0% 0% 0%;
+    justify-self: center;
+    display: grid;
+    background: #1C1C1C;
+    color: #FF5733;
+    box-shadow: 40px -15px 15px rgba(0, 0, 0, 0.44);
+    transition: transform 0.3s;
+    border-radius: 2%;
+}
+
+.item_project:hover {
+    transform: scale(1.1);   
+}
+
+.item_project img{
+    max-width: 100%;
+    max-height: 100%;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+}
+
+.item_project a{
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+}
+
+.item_project p{
+    position: absolute;
+    left: 50%;
+    bottom: 10%;
+    transform: translateX(-50%);
+    font-weight: bold;
+    font-style: italic;
+}
