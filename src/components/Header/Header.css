@@ -19,3 +19,14 @@
     color: #4493f8;
 }
 
+@media (max-width: 480px) {
+    .header{
+        padding: 5%;
+        width: auto;
+        height: auto;
+    }
+    .navbar ul li{
+        padding: 1% 1.8%;
+        font-size: 1.45em;
+    }
+}

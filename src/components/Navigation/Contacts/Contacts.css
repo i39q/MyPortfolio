@@ -17,17 +17,26 @@
 }
 
 .name{
-    font-size: 60px;
+    font-size: 3em;
     font-weight: bold;
     color: #FF5733;
 }
 
 .subName {
     margin: 2% auto;
-    font-size: 25px;
+    font-size: 1.3em;
     color: #F5F5DC;
 }
 
 .email{
     margin-top: 15%;
+}
+
+@media (max-width: 768px) {
+    .name{
+        font-size: 2.5em;
+    }
+    .subName{
+        font-size: 1.3em;
+    }
 }

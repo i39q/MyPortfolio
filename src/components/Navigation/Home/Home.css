@@ -24,9 +24,33 @@
     color: #F5F5DC;
 }
 
-.container_main a{
+.source{
+    margin-top: 1%;
+}
+
+.source_p{
+    display: inline;
+}
+
+.source_a{
+    margin-left: 3%;
+    font-size: 30px;
     text-decoration-line: none;
-    color: inherit;
-    padding: 20px 150px;
-    display: block;
+    color: #CC2400;;
+}
+
+.source_a:hover{
+    color: #FF5733;
+}
+
+@media (max-width: 768px) {
+    .container_main{
+        width: 100%;
+    }
+    .source_a{
+        font-size: 1em;
+    }
+    .container_main p{
+        font-size: 0.8rem;
+    }
 }

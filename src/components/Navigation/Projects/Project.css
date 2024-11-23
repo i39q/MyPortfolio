@@ -47,3 +47,21 @@
     font-weight: bold;
     font-style: italic;
 }
+
+@media (max-width: 480px) {
+    .Projects{
+        display: block;
+    }
+
+    .item_project {
+        width: 18.125em;
+        height: 11.625em;
+        box-shadow: none;
+        margin: 15% auto;
+        box-shadow: none !important;       
+    }
+
+    .item_project p{
+        bottom: 8%;
+    }
+}
