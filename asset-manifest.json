@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.7fbe203d.css",
-    "main.js": "./static/js/main.9c371b19.js",
-    "static/js/453.1407b060.chunk.js": "./static/js/453.1407b060.chunk.js",
-    "static/media/Bakery.png": "./static/media/Bakery.d6ee75cdeeeef87ee002.png",
-    "static/media/Business.png": "./static/media/Business.e9088cf580030a77716c.png",
-    "static/media/Translator.png": "./static/media/Translator.8bd07a464d3f32fa774c.png",
-    "static/media/ConvertColorToOtherColorSystem.png": "./static/media/ConvertColorToOtherColorSystem.e77be3a60a5b5fd09d44.png",
-    "static/media/hashsum.png": "./static/media/hashsum.7c06a9459264c3cdef6d.png",
-    "static/media/FixSortJS.png": "./static/media/FixSortJS.d75e96e307079045ebc3.png",
-    "static/media/github1_.png": "./static/media/github1_.e7e54c987286957f7b06.png",
-    "static/media/notabug.png": "./static/media/notabug.4479ebd95d94e9da6145.png",
-    "index.html": "./index.html",
-    "main.7fbe203d.css.map": "./static/css/main.7fbe203d.css.map",
-    "main.9c371b19.js.map": "./static/js/main.9c371b19.js.map",
-    "453.1407b060.chunk.js.map": "./static/js/453.1407b060.chunk.js.map"
+    "main.css": "/Home/static/css/main.d4c9e920.css",
+    "main.js": "/Home/static/js/main.08707367.js",
+    "static/js/453.1407b060.chunk.js": "/Home/static/js/453.1407b060.chunk.js",
+    "static/media/Bakery.png": "/Home/static/media/Bakery.d6ee75cdeeeef87ee002.png",
+    "static/media/Business.png": "/Home/static/media/Business.e9088cf580030a77716c.png",
+    "static/media/Translator.png": "/Home/static/media/Translator.8bd07a464d3f32fa774c.png",
+    "static/media/ConvertColorToOtherColorSystem.png": "/Home/static/media/ConvertColorToOtherColorSystem.e77be3a60a5b5fd09d44.png",
+    "static/media/hashsum.png": "/Home/static/media/hashsum.7c06a9459264c3cdef6d.png",
+    "static/media/FixSortJS.png": "/Home/static/media/FixSortJS.d75e96e307079045ebc3.png",
+    "static/media/github1_.png": "/Home/static/media/github1_.e7e54c987286957f7b06.png",
+    "static/media/notabug.png": "/Home/static/media/notabug.4479ebd95d94e9da6145.png",
+    "index.html": "/Home/index.html",
+    "main.d4c9e920.css.map": "/Home/static/css/main.d4c9e920.css.map",
+    "main.08707367.js.map": "/Home/static/js/main.08707367.js.map",
+    "453.1407b060.chunk.js.map": "/Home/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fbe203d.css",
-    "static/js/main.9c371b19.js"
+    "static/css/main.d4c9e920.css",
+    "static/js/main.08707367.js"
   ]
 }
